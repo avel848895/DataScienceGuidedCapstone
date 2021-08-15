@@ -28,7 +28,7 @@ To create the env and install the required libraries (once you have pipenv insta
 pipenv install
 ```
 
-Then to activate the env and launch jupyter from this env you can do something like the below two commands:
+Then to activate the env and launch jupyter from this env you can do something like the below two commands:.
 ```
 pipenv shell
 jupyter lab
